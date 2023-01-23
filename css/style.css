@@ -126,7 +126,7 @@
 
 .footer-top{
     background-color: grey;
-    height: 300px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -147,7 +147,7 @@
 }
 
 .icons{
-    height: 250px;
+    height: 450px;
     background-color: red;
     width: 25%;
     border: dashed 2px black;
@@ -155,7 +155,7 @@
 
 .more-about{
     background-color: blue;
-    height: 250px;
+    height: 450px;
     width: calc(75% / 4);
     border: dashed 2px black;
 }
