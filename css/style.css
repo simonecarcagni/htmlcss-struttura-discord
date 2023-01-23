@@ -18,6 +18,7 @@
     width: 35%;
     background-color: blue;
     height: 250px;
+    border: dashed 2px black;
 }
 
 .debug section {
@@ -49,6 +50,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .navigation{
@@ -75,26 +77,31 @@
     width: 60%;
     background-color: cyan;
     height: 300px;
+    border: dashed 2px black;
 }
 
 .debug .text{
     width: 40%;
     height: 300px;
     background-color: purple;
+    border: dashed 2px black;
 }
 
 .login-area{
     text-align: end;
     padding: 15px;
+    border: dashed 2px black;
 }
 
 .links{
     text-align: center;
     padding: 15px;
+    border: dashed 2px black;
 }
 
 .logo{
     padding: 15px;
+    border: dashed 2px black;
 }
 
 .flex-items2 {
@@ -108,6 +115,7 @@
     width: 1170px;
     height: 600px;
     background-color: green;
+    border: dashed 2px black;
 }
 
 .debug .sections3{
@@ -135,19 +143,21 @@
     border-top: solid 2px black;
     display: flex;
     justify-content: center;
-        align-items: center;
+    align-items: center;
 }
 
 .icons{
     height: 250px;
     background-color: red;
     width: 25%;
+    border: dashed 2px black;
 }
 
 .more-about{
     background-color: blue;
     height: 250px;
     width: calc(75% / 4);
+    border: dashed 2px black;
 }
 
 .footer-container2{
@@ -157,9 +167,11 @@
     justify-content: space-between;
     align-items: center;
     background-color: cyan;
+    
 }
 
 span,button{
     background-color: orange;
     padding: 5px;
+    border: dashed 2px black;
 }
