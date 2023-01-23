@@ -83,6 +83,20 @@
     background-color: purple;
 }
 
+.login-area{
+    text-align: end;
+    padding: 15px;
+}
+
+.links{
+    text-align: center;
+    padding: 15px;
+}
+
+.logo{
+    padding: 15px;
+}
+
 .flex-items2 {
     width: 1170px;
     margin: auto;
@@ -100,4 +114,52 @@
     background-color: rgb(79, 66, 192);
     height: 800px;
     display: flex;
+}
+
+.footer-top{
+    background-color: grey;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container{
+    display: flex;
+    width: 1170px;
+}
+
+.footer-bottom {
+    background-color: grey;
+    height: 100px;
+    border-top: solid 2px black;
+    display: flex;
+    justify-content: center;
+        align-items: center;
+}
+
+.icons{
+    height: 250px;
+    background-color: red;
+    width: 25%;
+}
+
+.more-about{
+    background-color: blue;
+    height: 250px;
+    width: calc(75% / 4);
+}
+
+.footer-container2{
+    height: 75px;
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cyan;
+}
+
+span,button{
+    background-color: orange;
+    padding: 5px;
 }
